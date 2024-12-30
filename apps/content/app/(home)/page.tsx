@@ -41,7 +41,7 @@ export default function HomePage() {
           <div className="flex flex-col items-center">
             <h1 className="max-w-5xl text-foreground text-4xl sm:text-5xl sm:leading-none lg:text-6xl">
               <span className="block text-foreground">
-                End-to-End Typesafe API Builder for Developers
+                It's works
               </span>
               {/* <span className="block md:ml-0">Developer-first simplicity</span> */}
             </h1>
